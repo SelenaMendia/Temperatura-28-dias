@@ -1,0 +1,16 @@
+C:\Users\Selena Mendia\Documents\ITES\programacion 1\segundo parcial\c#\1 - trabajos\tp 8\Temperatura 28 dias\bin\Debug\net5.0\Temperatura 28 dias.exe
+C:\Users\Selena Mendia\Documents\ITES\programacion 1\segundo parcial\c#\1 - trabajos\tp 8\Temperatura 28 dias\bin\Debug\net5.0\Temperatura 28 dias.deps.json
+C:\Users\Selena Mendia\Documents\ITES\programacion 1\segundo parcial\c#\1 - trabajos\tp 8\Temperatura 28 dias\bin\Debug\net5.0\Temperatura 28 dias.runtimeconfig.json
+C:\Users\Selena Mendia\Documents\ITES\programacion 1\segundo parcial\c#\1 - trabajos\tp 8\Temperatura 28 dias\bin\Debug\net5.0\Temperatura 28 dias.runtimeconfig.dev.json
+C:\Users\Selena Mendia\Documents\ITES\programacion 1\segundo parcial\c#\1 - trabajos\tp 8\Temperatura 28 dias\bin\Debug\net5.0\Temperatura 28 dias.dll
+C:\Users\Selena Mendia\Documents\ITES\programacion 1\segundo parcial\c#\1 - trabajos\tp 8\Temperatura 28 dias\bin\Debug\net5.0\ref\Temperatura 28 dias.dll
+C:\Users\Selena Mendia\Documents\ITES\programacion 1\segundo parcial\c#\1 - trabajos\tp 8\Temperatura 28 dias\bin\Debug\net5.0\Temperatura 28 dias.pdb
+C:\Users\Selena Mendia\Documents\ITES\programacion 1\segundo parcial\c#\1 - trabajos\tp 8\Temperatura 28 dias\obj\Debug\net5.0\Temperatura 28 dias.csproj.AssemblyReference.cache
+C:\Users\Selena Mendia\Documents\ITES\programacion 1\segundo parcial\c#\1 - trabajos\tp 8\Temperatura 28 dias\obj\Debug\net5.0\Temperatura 28 dias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Selena Mendia\Documents\ITES\programacion 1\segundo parcial\c#\1 - trabajos\tp 8\Temperatura 28 dias\obj\Debug\net5.0\Temperatura 28 dias.AssemblyInfoInputs.cache
+C:\Users\Selena Mendia\Documents\ITES\programacion 1\segundo parcial\c#\1 - trabajos\tp 8\Temperatura 28 dias\obj\Debug\net5.0\Temperatura 28 dias.AssemblyInfo.cs
+C:\Users\Selena Mendia\Documents\ITES\programacion 1\segundo parcial\c#\1 - trabajos\tp 8\Temperatura 28 dias\obj\Debug\net5.0\Temperatura 28 dias.csproj.CoreCompileInputs.cache
+C:\Users\Selena Mendia\Documents\ITES\programacion 1\segundo parcial\c#\1 - trabajos\tp 8\Temperatura 28 dias\obj\Debug\net5.0\Temperatura 28 dias.dll
+C:\Users\Selena Mendia\Documents\ITES\programacion 1\segundo parcial\c#\1 - trabajos\tp 8\Temperatura 28 dias\obj\Debug\net5.0\ref\Temperatura 28 dias.dll
+C:\Users\Selena Mendia\Documents\ITES\programacion 1\segundo parcial\c#\1 - trabajos\tp 8\Temperatura 28 dias\obj\Debug\net5.0\Temperatura 28 dias.pdb
+C:\Users\Selena Mendia\Documents\ITES\programacion 1\segundo parcial\c#\1 - trabajos\tp 8\Temperatura 28 dias\obj\Debug\net5.0\Temperatura 28 dias.genruntimeconfig.cache
